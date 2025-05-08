@@ -1,6 +1,7 @@
 <?php 
 include('classes/Panel.php');
 //TODO: Should be validate this input? Why/Why not?
+//TODO: Actually I don't like to break words
 $panel1 = new Panel("Es van enamorar en un tren","Before Sunrise");
 $panel2 = new Panel("Lorca","La casa de Bernarda Alba");
 
