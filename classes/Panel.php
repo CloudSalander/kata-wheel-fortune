@@ -14,6 +14,7 @@ class Panel {
             else echo " ";
             $currentLineCharsNumber = $this->checkNewLine($currentLineCharsNumber);
         }
+        echo PHP_EOL.$this->clue;
     }
 
     private function checkNewLine(int $charsNumber): int {
