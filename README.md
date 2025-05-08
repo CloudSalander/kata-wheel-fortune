@@ -14,12 +14,12 @@ En concret, volem un program que, donat un text a resoldre i una pista, ens most
 
 **Output**
 
-______ _______
+"______ _______"
 
 "Es van enamorar en un tren"
 
-__ ____ __ 
+"__ ____ __ 
 
-________ ____
+________ ____"
 
 "Lorca"
